@@ -70,7 +70,7 @@ Content-Type: application/json
 
 {
   "participant": "Steven",
-  "message": "I am happy to be your trainer!"
+  "message": "I am happy to be your best trainer!"
 }
 
 ### "Milan" posts a message in the static ChatRoom
